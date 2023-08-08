@@ -7,3 +7,4 @@ if (0) {
   alert("Nooo");
 }
 ```
+alert Nooo
